@@ -4,7 +4,7 @@
 
 Currently, I'm pursuing my MSc in Advanced Computer Science at the University of Sheffield, enhancing my expertise in software development, Mobile development, Web technology and Cyber security.
 
-## 🛠️ Skills
+##  💻 Skills
 
 ### **Mobile Development**
 - **Languages & Tools:** Kotlin, Java, XML, Jetpack Compose, Android Studio, RoomDB, SQLite
