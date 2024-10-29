@@ -29,6 +29,6 @@ Enhancing my expertise in backend development, mobile development, and web techn
 
 ## Fun Fact
 
-When I'm not coding, I enjoy exploring new cuisines, traveling, and reading books. I believe creativity isn't limited to code—it's a way of life.
+When I'm not coding, I enjoy exploring new cuisines, traveling, hiking and reading books. 
 
 ---
