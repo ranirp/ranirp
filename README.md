@@ -6,29 +6,26 @@ Enhancing my expertise in backend development, mobile development, and web techn
 
 ##  💻 Skills
 
-### **Mobile Development**
-- **Languages & Tools:** Kotlin, Java, XML, Jetpack Compose, Android Studio
-- **Frameworks & Technologies:** RoomDB, SQLite, Google Maps API, Firebase
+### **Frontend Development**
+- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Frameworks & Libraries:** React, Tailwind CSS, Daisy-UI
+- **Technologies & Concepts:** Progressive Web Apps (PWA), Server-Side Rendering (SSR), Client-Side Rendering (CSR), IndexedDB
+- **Development Practices:** Responsive Design, Component-Based Architecture, Unit Testing, Service Workers
 
-### **Web Development**
-- **Languages & Frameworks:** React, Node.js, JavaScript, TypeScript, Express.js
-- **Technologies:** Tailwind, CSS, Daisy-UI, MongoDB, MySQL, IndexedDB
-- **Development Practices:** Progressive Web Apps (PWA), Server-Side Rendering (SSR), Client-Side Rendering (CSR), CI/CD Pipelines, Unit Testing, RESTful APIs, Service Worker
-- **Security:** JWT (JSON Web Tokens)
+### **Backend Development**
+- **Languages:** Python, Node.js, Kotlin, Java
+- **Frameworks:** Flask, Express.js
+- **Technologies & Concepts:** JWT (JSON Web Tokens), RESTful APIs, Swagger, API Integration, Secure Authentication, Microservices Architecture
+- **Development Practices:** Object-Oriented Programming (OOP), SOLID Principles, System Design
 
-### **Development Tools**
-- **Languages:** Python, C, C++
-- **Concepts & Principles:** Object-Oriented Programming (OOP), SOLID Principles, System Design
-- **Tools & Technologies:** Git, Docker, Jenkins, Firebase, Figma
-- **Development Practices:** DevOps
+### **Databases** 
+- PostgreSQL, MongoDB, MySQL, RoomDB, SQLite
 
-### **Technical Concepts**
-- Software Engineering, Agile Methodologies, Secure Authentication, Data Management, API Integration, Cross-Platform Compatibility
+### **DevOps & Cloud** 
+- **Tools & Platforms:** Azure, Docker
+- **Technologies & Concepts:** CI/CD Pipelines, Containerization, Cloud Deployment, Cross-Platform Compatibility
 
----
-
-## Fun Fact
-
-When I'm not coding, I enjoy exploring new cuisines, traveling, hiking and reading books. 
+### **Development Practices:**
+- Agile Methodologies, Software Engineering Principles, Cross-Platform Development, Data Management, Secure Authentication
 
 ---
