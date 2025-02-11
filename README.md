@@ -2,21 +2,21 @@
 
 # Hi, I'm Rani Kumari 👋
 
-Refining and expanding my expertise in Fullstack Development, Mobile Development, Web Technologies, and DevOps
+Refining and Expanding my expertise in Fullstack Development, Mobile Development, Web Technologies, and DevOps
 
 ##  💻 Skills
 
-### **Frontend Development**
-- React, JavaScript ES6, TypeScript, Redux, Context API, Tailwind CSS, HTML, Bootstrap
+### **Front-end Development**
+- React, JavaScript (ES6+), TypeScript, Next.js, Redux, Context API, Tailwind CSS, HTML, Bootstrap
 
-- **Design & Performance:** 
-Progressive Web Apps (PWA), Server-Side Rendering (SSR), Client-Side Rendering(CSR), Responsive Design, Component-Based Architecture, Unit Testing
+### **Design & Performance** 
+- Progressive Web Apps (PWA), Server-Side Rendering (SSR), Client-Side Rendering (CSR), Responsive Design, Component-Based Architecture, Unit Testing, Integration Testing 
 
-### **Backend Development**
+### **Back-end Development**
 - Python, Node.js, Express.js, Flask
 
-- **Security & APIs:** 
-OAuth, JWT (JSON Web Tokens), RESTful APIs, Swagger Documentation
+### **Security & APIs:** 
+- OAuth, JWT, RESTful APIs, Swagger API Documentation, CSRF, CORS
 
 ### **Mobile Development**
 - Android Studio (Kotlin), React Native, Jetpack Compose
@@ -24,8 +24,14 @@ OAuth, JWT (JSON Web Tokens), RESTful APIs, Swagger Documentation
 ### **Databases** 
 - PostgreSQL, MongoDB, MySQL, SQLite, IndexedDB
 
-### **DevOps & Cloud:** 
-- Azure, Firebase, Docker, Kubernetes, Git, GitLab, CI/CD Pipelines
+### **DevOps & Cloud** 
+- Azure, Firebase, Docker, Kubernetes, Git, GitLab(CI/CD), CI/CD Pipelines (Jenkins, GitHub Actions)
 
-### **Development Practices:**
-- Agile Methodologies, Clean Code Practices, SOLID Principles, KISS, YAGNI, Object-Oriented Programming (OOP)
+### **Development Practices**
+- Agile Methodologies, SOLID Principles, Clean Code (KISS, YAGNI, DRY), Object-Oriented Programming (OOP), Test-Driven Development (TDD)
+
+### **Tools**
+- Jira, Figma
+
+
+
