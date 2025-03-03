@@ -1,7 +1,7 @@
 
 
 # Hi, I'm Rani Kumari 👋
-🛠️ Architecting the future, one debug session at a time<br>
+🛠️ Architecting the future, one debug session at a time, with a constant quest to explore new horizons<br>
 
 🔭 **Currently working on:** FlowSprint - A Project Management Application 📈<br>
 
