@@ -10,8 +10,8 @@
 - 🛠️ DevOps, cloud infrastructure & scalable architectures
 - 🚀 AI-powered automation tools to supercharge developer productivity
 
-⚡ Fueled by coffee ☕, powered by code 💻, and always debugging life’s mysteries...<br><br>
-📫 Let’s turn ‘What if?’ into ‘It works!’—hit me up
+⚡ Fueled by coffee ☕ powered by code 💻 and always debugging life’s mysteries...<br><br>
+📫 Let’s turn What if? into It works! —hit me up
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranikumari) 
