@@ -1,16 +1,14 @@
-
-
 # Hi, I'm Rani Kumari 👋
-🛠️ Architecting the future, one debug session at a time, with a constant quest to explore new horizons<br>
+🛠️ Architecting the future, one debug session at a time, with a constant quest to explore new horizons
 
-🔭 **Currently working on:** FlowSprint - A Project Management Application 📈<br>
+🔭 **Currently working on:** FlowSprint - A Project Management Application 📈
 
-🌱 **Diving deep into:** AI integrations & automation 🤖<br>
+🌱 **Diving deep into:** AI integrations & automation 🤖
 
-🤝 **Looking to collaborate on:**<br>
-- 🏗️ Open-source contributions & full-stack development<br>
-- 🛠️ DevOps, cloud infrastructure & scalable architectures<br>
-- 🚀 AI-powered automation tools to supercharge developer productivity<br>
+🤝 **Looking to collaborate on:**
+- 🏗️ Open-source contributions & full-stack development
+- 🛠️ DevOps, cloud infrastructure & scalable architectures
+- 🚀 AI-powered automation tools to supercharge developer productivity
 
 ⚡ Fueled by coffee ☕, powered by code 💻, and always debugging life’s mysteries...<br><br>
 📫 Let’s turn ‘What if?’ into ‘It works!’—hit me up
