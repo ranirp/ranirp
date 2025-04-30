@@ -1,8 +1,6 @@
 # Hi, I'm Rani Kumari 👋
 🛠️ Architecting the future, one debug session at a time, with a constant quest to explore new horizons
 
-🔭 **Currently working on:** pricepulse-ecommerce-tracker
-
 🌱 **Diving deep into:** AI integrations & automation 🤖
 
 🤝 **Looking to collaborate on:**
