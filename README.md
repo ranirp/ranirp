@@ -7,12 +7,12 @@
 - 🚀 AI-powered automation tools to supercharge developer productivity
 
 ⚡ Fueled by coffee ☕,  powered by code 💻,  and always debugging life’s mysteries.......<br><br>
-📫 Let’s turn 'What if?' into 'It works!' —hit me up
+📫 Let’s turn 'What if?' into 'It works!' —hit me up   <br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranikumari) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ranipurohit30) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranipurohit30@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranipurohit30@gmail.com)  <br><br>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -53,8 +53,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+<br><br>
 
----
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ranirp1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ranirp1&theme=tokyonight&hide_border=false)<br/>
