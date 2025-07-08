@@ -7,7 +7,6 @@
 - 🚀 AI-powered automation tools to supercharge developer productivity
 
 ⚡ Fueled by coffee ☕,  powered by code 💻,  and always debugging life’s mysteries.......<br><br>
-
 📫 Let’s turn 'What if?' into 'It works!' —hit me up
 
 ## 🌐 Socials:
