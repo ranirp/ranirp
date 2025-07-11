@@ -1,4 +1,4 @@
-# Hi, I'm Rani Kumari 👋
+# Hi, I'm Rani Kumari 
 🛠️ Architecting the future, one debug session at a time, with a constant quest to explore new horizons
 
 🤝 **Looking to collaborate on:**
