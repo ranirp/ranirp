@@ -51,7 +51,7 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranirp&theme=tokyonight&hide_border=false&hide_total_contributions=true" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ranirp&theme=tokyonight&hide_border=false&hide_total_contributions=true" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranirp&theme=tokyo-night&hide_border=true&area=true&custom_title=This%20Month's%20Contribution%20Graph" />
 </p>
